@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cucumber Tests Suite" parallel="tests" thread-count="3">
+    <test name="Run Login Tests">
+        <classes>
+            <class name="runners.CucumberRunner" />
+        </classes>
+    </test>
+    <test name="Run Registration Tests">
+        <classes>
+            <class name="runners.CucumberRunner" />
+        </classes>
+    </test>
+</suite>
