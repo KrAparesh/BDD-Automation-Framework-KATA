@@ -1,0 +1,9 @@
+uitests\basetest\BaseTest.class
+uitests\utilities\ConfigReader.class
+stepDefinitions\apiDefinitions\ApiStepDefinitions.class
+stepDefinitions\uiDefinitions\LoginStepDefinitions.class
+stepDefinitions\uiDefinitions\RegisterStepDefinitions.class
+uitests\utils\WebDriverFactory.class
+stepDefinitions\uiDefinitions\ProfileStepDefinitions.class
+runners\CucumberRunner.class
+hooks\Hooks.class

@@ -1,0 +1,8 @@
+com\epam\UI\pages\BasePage.class
+com\epam\API\payload\User.class
+com\epam\UI\pages\LoginPage.class
+com\epam\API\payload\Label.class
+com\epam\API\payload\Operation.class
+com\epam\API\payload\Bank.class
+com\epam\UI\pages\RegisterPage.class
+com\epam\UI\pages\ProfilePage.class
